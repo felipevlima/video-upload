@@ -1,0 +1,9 @@
+{
+  "name": "youtube-video-upload-v2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^126.0.1"
+  }
+}
